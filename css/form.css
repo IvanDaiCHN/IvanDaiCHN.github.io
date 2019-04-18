@@ -1,0 +1,15 @@
+label, input, textarea {
+    margin-top: 10px;
+    display: block;
+    text-align: left;
+}
+textarea {
+    height: 200px;
+    width: 200px;
+}
+.content-body {
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    margin-left: 43%;
+    color: #303030;
+}
